@@ -1,0 +1,11 @@
+.first {
+  color: green;
+  font-style: italic;
+  text-align: center;
+}
+
+.gold {
+  color: gold;
+  font-style: oblique;
+  text-align: center;
+}
